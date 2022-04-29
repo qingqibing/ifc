@@ -13,7 +13,7 @@
   "author": "zhangyifan",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^2.6.4",
     "bluebird": "^3.5.2",
     "body-parse": "^0.1.0",
     "cesium": "^1.48.0",
